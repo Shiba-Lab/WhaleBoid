@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a9955d7d64f5b5642a6b56bda120e034, type: 3}
+  m_Name: BlueBoidParam
+  m_EditorClassIdentifier: 
+  initSpeed: 0.4
+  minSpeed: 0.4
+  maxSpeed: 1
+  boidsDistance: 5
+  boidsFov: 90
+  separationPower: 5
+  alignmentPower: 2
+  cohesionPower: 3
+  chasePower: 0
+  runAwayPower: 3
